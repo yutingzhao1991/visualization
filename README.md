@@ -8,6 +8,8 @@
 - 数据可视化站点的数据后端开发者（1,4篇）
 - 数据可视化产品人员（1篇）
 
+![web前端数据可视化](https://cloud.githubusercontent.com/assets/1061968/13593670/5dc719a8-e538-11e5-97c4-7323827a09a0.png)
+
 ## 文章列表
 
 ### [0.前言](./preface.md)
