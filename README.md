@@ -12,4 +12,4 @@
 
 ## 文章列表
 
-[Table Of Content](./SUMMARY.md)
+[开始阅读](https://yutingzhao1991.gitbooks.io/visualization/)
